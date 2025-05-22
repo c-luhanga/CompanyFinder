@@ -14,7 +14,7 @@ A PyQt6 desktop application for discovering local businesses and analyzing their
 
 ## Screenshots
 
-_[Add screenshots of your application here]_
+![alt text](Screenshot_20250522_000644.png)
 
 ## Requirements
 
@@ -76,7 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Choose an appropriate license for your project]
+MIT Licence
 
 ## Acknowledgments
 
