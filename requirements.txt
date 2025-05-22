@@ -1,0 +1,6 @@
+PyQt6
+folium
+geopy
+requests
+overpy
+beautifulsoup4
