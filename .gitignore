@@ -34,8 +34,20 @@ business_finder.log
 # Generated files
 map.html
 
+# Data files
+*.csv
+exports/
+
+# Documentation files
+MVP*.md
+MVP*.doc
+MVP*.docx
+MVP*.pdf
+docs/mvp/
+
 # IDE specific files
 .idea/
 .vscode/
 *.swp
 *.swo
+
